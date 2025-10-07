@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf-jaag",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f58f8131-4ef3-4791-84a2-b5547701f668",
+		"tenantId": "e760922d-6f9a-439b-abac-8894ba437a64"
+	}
+}
